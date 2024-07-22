@@ -1,10 +1,18 @@
 # React CV Builder
 
-This project is a web application built using React that calculates the split of a bill. 
+This project is a modern, interactive CV builder application built with React and styled using Tailwind CSS. It allows users to create and manage their CVs with a live preview, and download the completed CV as a PDF file.
 
-## Description
+## Features
+Form-Based Input: Users can input personal information, educational background, and practical experience through an easy-to-use form.
+Live Preview: See the formatted CV in real-time as information is entered.
+Editable Fields: Users can edit and update their CV content as needed.
+Download as PDF: Generate and download the CV as a professionally formatted PDF.
 
-The React Tip Splitter is a simple and intuitive web application where users can input the a total bill amount and share this between any amount of people. The user can input the total bill amount, % tip and amount of people to split between. This project demonstrates the use of React for creating components to build interactive user interfaces, managing state and applying logic to perform the correct calculations.
+## Technologies Used
+React: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for custom styling.
+jsPDF: A library to generate PDF documents.
+html2canvas: A library to capture HTML content as images for PDF generation..
 
 ## Getting Started
 
@@ -57,3 +65,5 @@ To get started with the React Tip Splitter project, follow these steps:
 ## Acknowledgements
 
 - React: [https://reactjs.org](https://reactjs.org)
+- Tailwind CSS for a streamlined and customizable styling solution.
+- jsPDF and html2canvas for PDF generation capabilities
